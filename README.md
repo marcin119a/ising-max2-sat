@@ -14,4 +14,9 @@ Activation:
 Requirements: 
 ```
 ising
+numpy
 ```
+
+Instalation requirements:
+
+pip install -r requirements.txt
